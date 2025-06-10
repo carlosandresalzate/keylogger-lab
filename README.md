@@ -21,7 +21,7 @@ Este proyecto nace como un laboratorio de aprendizaje personal hecho originalmen
 - Uso de match-case para facilitar escalabilidad de acciones según tecla detectada.
 - Mecanismo de salida con la tecla `Esc`.
 
-##🧪 Exploraciones adicionales
+## 🧪 Exploraciones adicionales
 
 - Documentación en forma de bitácora técnica personal.
 - Uso de `run.sh` para simular ejecución oculta en un sistema Unix.
